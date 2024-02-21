@@ -1,2 +1,7 @@
 # Draw-Shapes
-Draws and fills basic shapes by using asterisks
+This program reads coordinates from an input file, creates a shape by drawing lines, and then fills the area inside the shape.
+All drawing is done with ASCII asterisks (*).
+
+Use: ./DrawShapes.out <input> <output>
+ * input - Path of text file to be taken as input
+ * output - Path of text file where output will be written
